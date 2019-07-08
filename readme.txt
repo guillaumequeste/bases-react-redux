@@ -1,0 +1,5 @@
+"bootstrap": "^4.3.1"
+"react-redux": "^7.0.3"
+"redux": "^4.0.1"
+"redux-thunk": "^2.3.0"
+"uuid": "^3.3.2"
